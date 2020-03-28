@@ -1,4 +1,4 @@
-s3_bucket = "eks-burak-jenkins1-stage"       #Will be used to set backend.tf
+s3_bucket = "eks-taza"       #Will be used to set backend.tf
 vpc_id = "vpc-67dd1f1f"
 subnet1 = "subnet-250e515c"
 subnet2 = "subnet-250e515c"

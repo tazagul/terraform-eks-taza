@@ -20,7 +20,7 @@ s3_tfstate_file = "infrastructure.tfstate"   #Will be used to set backend.tf
 cluster_name = "cluster"
 instance_type = "t2.micro"
 asg_max_size = "96" 
-asg_min_size = "6"
+asg_min_size = "3"
 asg_desired_capacity = "3"
 cluster_version = "1.14"
 
